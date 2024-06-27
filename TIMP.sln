@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMP", "TIMP\TIMP.csproj", "{0654F119-46F2-4AF2-8C0B-3ACF4A42AD99}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setupMyFarManager", "setupMyFarManager\setupMyFarManager.vdproj", "{1DE43BA2-652C-4DBA-AD5C-5434CF85BF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0654F119-46F2-4AF2-8C0B-3ACF4A42AD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0654F119-46F2-4AF2-8C0B-3ACF4A42AD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0654F119-46F2-4AF2-8C0B-3ACF4A42AD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0654F119-46F2-4AF2-8C0B-3ACF4A42AD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE43BA2-652C-4DBA-AD5C-5434CF85BF5F}.Debug|Any CPU.ActiveCfg = Debug
+		{1DE43BA2-652C-4DBA-AD5C-5434CF85BF5F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C12D75-D2E1-415C-9AC6-4A5199E9A3A1}
+	EndGlobalSection
+EndGlobal
